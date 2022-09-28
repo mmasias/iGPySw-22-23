@@ -4,7 +4,7 @@
 Estudiante del grado de ingeniería informática por la UNEAT y becado con la beca de colaboración
 
 ## Proyectos
-
+Ahora mismo estoy realizando la formacion para poder trabajar en el equipo de desarrollo Fenix.
 ## Trabajos
 
 ## Intereses
