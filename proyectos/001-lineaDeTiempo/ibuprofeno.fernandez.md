@@ -13,3 +13,9 @@
 - Música
 - Juegos de rol
 - Mapas
+
+|Juego|Tipo|Año|
+|-|-|-|
+|Ultima|Rol|1988|
+|Kings Quest|Aventura|1984|
+|Doom|FPS|1991|
