@@ -6,3 +6,5 @@ Se debe utilizar el lenguaje [Markdown](https://markdown.es/sintaxis-markdown/)
 
 La fecha tope de entrega es el jueves 6 de octubre de 2022 a las 00:00. No se aceptarán pull request que excedan dicha hora.
 
+
+<li>Nacimiento</li>
