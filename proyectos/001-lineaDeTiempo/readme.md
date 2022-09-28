@@ -1,8 +1,25 @@
-# Dinámica de línea de tiempo
+# Linea del tiempo Álvaro Lostal
+  
+  ## Estudios
+  
+  + Estudios previos: **Infantil, primaria, ESO y Bachiller** Escolapios
+  + Estudiando actualmente: **Ingeniería Informática** Universidad Europea del Atlántico
 
-Crear la línea de tiempo personal en su fork y enviarla mediante pull request a este repositorio.
+  ## Proyectos
+  
+  + Acabar la carrera
+  + Conseguir un coche
+  + Aprobar TEO
 
-Se debe utilizar el lenguaje [Markdown](https://markdown.es/sintaxis-markdown/)
+  ## Trabajos
+  
+  + 3 entregas de Física I
+  + 1 entrega de Software
+  + Entregas opcionales de Matemáticas I
 
-La fecha tope de entrega es el jueves 6 de octubre de 2022 a las 00:00. No se aceptarán pull request que excedan dicha hora.
-
+  ## Intereses
+  
+  + Música under española y Rock/Jazz
+  + Moda
+  + Tecnología (sobre todo móvil)
+  + Comida
