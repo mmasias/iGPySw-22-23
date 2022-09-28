@@ -1,3 +1,4 @@
+Hola
 # Introducción a la gestión de proyectos de software
 
 Repo de materiales y proyectos de la asignatura **Introducción a la gestión de proyectos de software** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es). 
@@ -14,3 +15,5 @@ Repo de materiales y proyectos de la asignatura **Introducción a la gestión de
 * [Google Docs](https://drive.google.com/drive/u/0/my-drive)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
+
+Modificado por Sergio Velarde
