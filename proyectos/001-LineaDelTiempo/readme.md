@@ -1,6 +1,6 @@
 # Linea del tiempo de Pablo Arce
-Hola <br>
-adios
+<p>This is the first line.<br>
+And this is the second line.</p>
 ## Estudios
 
 ## Proyectos
