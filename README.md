@@ -16,3 +16,6 @@ Prof. Manuel Masías
 * [Google Docs](https://drive.google.com/drive/u/0/my-drive)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
+
+
+Jose Manuel Rasilla Paz
