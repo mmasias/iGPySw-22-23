@@ -8,3 +8,8 @@ La fecha tope de entrega es el jueves 6 de octubre de 2022 a las 00:00. No se ac
 
 
 <li>Nacimiento</li>
+<li>Imicio de la etapa primaria de educación</li>
+<li>Comunión</li>
+<li>Paso a la eptapa de la ESO</li>
+<li>Comienzo etapa de bachillerato</li>
+<li>Comienzo universidad</li>
