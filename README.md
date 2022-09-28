@@ -11,6 +11,6 @@ Repo de materiales y proyectos de la asignatura **Introducción a la gestión de
 ## Herramientas
 
 * [PlantUML](https://plantuml.com/es/)
-* Google Docs
+* [Google Docs](https://drive.google.com/drive/u/0/my-drive)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
