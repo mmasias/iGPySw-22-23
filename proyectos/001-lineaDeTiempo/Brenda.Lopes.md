@@ -1,10 +1,10 @@
-#linea de tiempo de brenda
+# linea de tiempo de brenda
 
-#estudios
+## estudios
 
-#proyectos
+## proyectos
 
-#trabajos
+## trabajos
 
-#intereses
+## intereses
 
