@@ -1,0 +1,41 @@
+# **David García Costa**
+![Mi foto](https://user-images.githubusercontent.com/114480378/192846260-37c6d549-905e-4135-a664-025bba4ab711.png)
+> **Estudiante en Ingeniería Informática en la Universidad Europea del Atlántico**
+***
+---
+- **CONTACTO**
+  - Móvil: 611 024 010
+  - Correo electrónico: david07.gc@gmail.com
+  - Ciudad: Santander
+- **ESTUDIOS**
+  - Ingeniería Informática
+    - En Cantabria(Santander): Universidad Europea del Atlántico
+    - INICIO CURSO SEPTIEMBRE 2022-2023
+  - Bachillerato de Ciencias Y EBAU
+    - En Cantabria(San Vicente De La Barquera): IES JOSE HIERRO
+    - FINALIZADO EN JUNIO 2022-2023
+- **APTITUDES**  
+<table>
+  <tr>
+    <th>COMUNICATIVO</th>
+    <th>INICIATIVA</th>
+    <th>TRABAJO EN EQUIPO</th>   
+    <th>CAPACIDAD DE APRENDIAZAJE</th> 
+    </tr>
+    <tr>
+    <th>ORGANIZACIÓN</th>       
+    <th>CONCENTRACIÓN</th> 
+    <th>RESPETUOSO</th>       
+    <th>ATENCIÓN EN LOS DETALLES</th>  
+    </tr>
+</table>
+
+- **INQUIETUDES**
+  - ROBÓTICA
+  - INFORMÁTICA
+  - LEER
+  - JUEGOS DE MESA
+  - DEPORTES
+
+- **DATO DE INTERÉS**
+>Participación en un mini proyecto de robótica, cuya finalidad era poner en funcionamiento un robot para distrubir alimentos a distintos animales.
