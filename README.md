@@ -1,19 +1,19 @@
-## Línea de tiempo:
+# Línea de tiempo:
 
-# Nombre:
+## Nombre:
 
 **Sergio**
 
-# Apellidos:
+## Apellidos:
 
 *Moreno Vega*
 
-# Gustos:
+## Gustos:
 
 - Informática
 - Gimnasio
 - Fiesta
 
-# ¿Porque me gusta la informática?
+## ¿Porque me gusta la informática?
 
 Porque en bachiller empecé  programar y me gusto.
