@@ -4,6 +4,8 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 <3 GNU/Linux 
 
+Javier Salmerón
+
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 
 ## Curso [22][23]
