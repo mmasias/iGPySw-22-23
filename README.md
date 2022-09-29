@@ -34,6 +34,9 @@ Alum. Daniel Puente Sarañana
 
 Alumna. Valentina Arias 
 
+
+Alum.Aisha
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
