@@ -6,6 +6,13 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
 Alum. Diego García Niño
 
+Alumno: Raul Pelayo
+
+Alum. Cayetano Castillo
+
+Alumn Juan José Cobo
+
+
 ## Curso [22][23]
 
 * [Temario](docs/temario.md)
