@@ -37,6 +37,8 @@ Alumna. Valentina Arias
 
 Alum.Aisha
 
+Alumno - Diego Moys
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
