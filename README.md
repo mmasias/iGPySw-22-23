@@ -4,6 +4,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 
+- Alumn David Gutierrez Ortega
 - Alumna Lucía Zamanillo
 - Alum. Jorge Otero
 - Alumn. Aurelio Ochoa
@@ -24,8 +25,7 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 - Alum.Aisha
 - Alumno - Diego Moys
 - Alum. Daniel Lavín 
-
-Alum. Óscar Santamaría 
+- Alum. Óscar Santamaría 
 
 ## Curso [22][23]
  
