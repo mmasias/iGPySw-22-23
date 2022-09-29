@@ -32,6 +32,8 @@ Alum. Brenda Lopes
 
 Alum. Daniel Puente Sarañana 
 
+Alumna. Valentina Arias 
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
