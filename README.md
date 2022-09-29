@@ -4,6 +4,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
+- Alumno:Diego Barraza
 - Alum. Adrián García
 - Alum. Andrés Alarcón Ceballos
 - Alum. Carlos Garcia Aguilar
@@ -37,8 +38,7 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 - Alum. Óscar Santamaría 
 - Alum. Jorge Quiñonez
 - Alumno Adrián Pérez
-
-Iker Celaya Buezo
+- Alumno Iker Celaya Buezo
 
 ## Curso [22][23]
  
