@@ -25,8 +25,10 @@ Alumn Juan José Cobo
 
 Alum. Brenda Lopes
 
-## Curso [22][23]
 
+Alum. Daniel Puente Sarañana 
+## Curso [22][23]
+ 
 * [Temario](docs/temario.md)
 * [Proyectos que abordaremos:](docs/proyectos.md).
 * [Grupos](docs/grupos.md)
