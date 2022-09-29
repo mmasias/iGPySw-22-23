@@ -27,6 +27,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 - Alum. Daniel Lavín 
 - Alum. Óscar Santamaría 
 
+-- Alum. Jorge Quiñonez --
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
