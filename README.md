@@ -2,7 +2,7 @@
 
 Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducción a la gestión de proyectos de software** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es). 
 
-Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
+Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
 - Alum. Adrián García
 - Alum. Andrés Alarcón Ceballos
@@ -36,7 +36,7 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 - Alum. Daniel Lavín 
 - Alum. Óscar Santamaría 
 - Alum. Jorge Quiñonez
-- Adrián Pérez
+- Alumno Adrián Pérez
 
 ## Curso [22][23]
  
