@@ -4,7 +4,10 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
+Alumno: Raul Pelayo
+
 Alum. Cayetano Castillo
+
 Alumn Juan José Cobo
 
 ## Curso [22][23]
