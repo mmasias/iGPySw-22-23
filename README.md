@@ -22,6 +22,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 - Alum.Aisha
 - Alumno - Diego Moys
 
+/*Rama Sergio*/
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
