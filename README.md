@@ -38,6 +38,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 - Alum. Jorge Quiñonez
 - Alumno Adrián Pérez
 
+Iker Celaya Buezo
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
