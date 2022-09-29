@@ -4,12 +4,32 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 
-
 Alumno Pablo Arce
 
+Alum. Paula Qing Diestro
+
+Alumno- Pablo Miranda
+
+Alumno: Pablo Lastra
+
+alumno: lydia garcia
+
+Alumno: Andriuw Yepez
+
+Alum. Diego García Niño
+
+Alumno: Raul Pelayo
+
+Alum. Cayetano Castillo
+
+Alumn Juan José Cobo
+
+Alum. Brenda Lopes
+
+Alum. Daniel Puente Sarañana 
 
 ## Curso [22][23]
-
+ 
 * [Temario](docs/temario.md)
 * [Proyectos que abordaremos:](docs/proyectos.md).
 * [Grupos](docs/grupos.md)
