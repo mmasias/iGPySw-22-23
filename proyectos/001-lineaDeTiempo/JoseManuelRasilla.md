@@ -1,8 +1,12 @@
 ## Jose Manuel Rasilla Paz 
 > Diseñador y desarrollador de Software Interactivo
 
-
 <img src="https://www.smasuncion.es/wp-content/uploads/2021/04/87787685-AE86-40E9-A3B8-7051556DFFDF.png" width="50" height="50" />  <img src="https://ps.w.org/simple-job-board/assets/icon-256x256.png?rev=1829069" width="50" height="50" />  
+
+* ### Datos Personales  
+    * Nacimiento: 21/05/2000
+    * Correo electronico: jose.rasilla@alumnos.uneatlantico.es
+    * Origen: Torrelavega - Barreda
 
 * ### Estudios  
     * Diseño de Productos Interactivos
@@ -33,7 +37,14 @@
         - Unity3D
         - UnrealEngine
         
-    
+* ### Aficiones  
+    * Fotografía
+        - Mi cuenta de [Instagram](https://www.instagram.com/215.athor/) de fotografía
+    * Baloncesto
+        - 12 años en la liga Cantabra de Baloncesto
+    * Videojuegos
+        - Desde simuladores de conducción (WRC) hasta shooters (COD), pasando por deportes (NBA, FIFA)
+
 
 
 
