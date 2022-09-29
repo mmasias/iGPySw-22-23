@@ -25,6 +25,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 
 /*Rama Sergio*/
 
+Alum. Daniel Lavín 
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
