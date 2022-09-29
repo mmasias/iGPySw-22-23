@@ -4,6 +4,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 
+- Alum. Jorge Otero
 - Alumn. Aurelio Ochoa
 - Alumno: Eduardo Estrada 
 - Alumno Pablo Arce
