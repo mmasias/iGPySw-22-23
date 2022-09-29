@@ -25,6 +25,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria
 - Alumno - Diego Moys
 - Alum. Daniel Lavín 
 
+Alum. Óscar Santamaría 
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
