@@ -1,12 +1,8 @@
-# Linea del tiempo de Pablo Arce
-This is the first line.<br>
-And this is the second line.
+# Dinámica de línea de tiempo
 
-## Estudios
-I just love **bold text**.
-## Proyectos
+Crear la línea de tiempo personal en su fork y enviarla mediante pull request a este repositorio.
 
-## Trabajos
+Se debe utilizar el lenguaje [Markdown](https://markdown.es/sintaxis-markdown/)
 
-## Intereses 
+La fecha tope de entrega es el jueves 6 de octubre de 2022 a las 00:00. No se aceptarán pull request que excedan dicha hora.
 
