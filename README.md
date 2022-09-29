@@ -31,6 +31,8 @@ Alumno: ALvaro Lostal
 - Alum. Óscar Santamaría 
 - Alum. Jorge Quiñonez
 
+Adrián Pérez
+
 ## Curso [22][23]
  
 * [Temario](docs/temario.md)
