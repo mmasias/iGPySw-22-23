@@ -4,6 +4,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
+- Alum. Javier Salmerón
 - Alum. Anibal Bayas
 - Alum. César García
 - Alumno: Manuela Grizoni Smelan 
