@@ -1,5 +1,5 @@
  
- ## Línea de tiempo de Raúl Pelayo.
+## Línea de tiempo de Raúl Pelayo.
 
 ## Cronología 
 - 2004: Mi nacimiento, el 10 de mayo de 2004.
