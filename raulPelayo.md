@@ -8,14 +8,15 @@
 - 2020: Termino la ESO y comienzo el bachillerato.
 - 2022: Finalizo segundo de Bachiller y me matriculo en Ingeniería Informatica en la UNEAT
 
-## Estudios
+## Estudios.
 En 2007 comenzó mi ciclo de enseñanza en el colegio Virgen de Valencia en Renedo de Piélagos. Tras 3 años, en 2010 comienzo la Educación Primaria. 6 Años después comenzaria lo que hizo que quisiera escoger esta carrera, la ESO en 2016 en donde me interesé por la tecnología. Tras 4 años en la Educación Secundaria en 2020 y con la pandemia, comienzo Bachiller, un comienzo bastante grande comparando el comenzar un curso de ESO. Pero despues de mucho esfuerzo, durante 2 años, finalizo el Bachiller con una idea muy clara; Estudiar ingeniería Informática.
 
-## Proyectos
+
+## Proyectos.
 -Finalizar la carrera felizmente y encontrar un buen puesto de trabajo.
 -Aprobar el carnet de coche.
 
-## Intereses
+## Intereses.
 - Deporte (Fútbol).
 - Salidas con amigos.
 - Videojuegos.
