@@ -7,3 +7,9 @@
 
 ## Introducción
 
+Nació en El Salvador en el departamento de San Salvador, en el 21 de Mayo del 2002
+
+## 
+
+
+
