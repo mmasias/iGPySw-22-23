@@ -13,11 +13,11 @@
 - Carnet de conducir
 - Actualmente cursando la carrera de Ingeniería informática en la Uneat
 #### Ambiciones
-+ Sacarme la carrera en los cuatro años de su duración (sin suspender ninguna materia)
-+ Seguir en el gimnasio para mantener mi forma física
-+ Conocer distintas personas y culturas
-+ Conseguir el nivel C1 de inglés
-+ Conseguir algún tipo de beca para poder irme a estudiar al extranjero un periodo de tiempo
+- Sacarme la carrera en los cuatro años de su duración (sin suspender ninguna materia)
+- Seguir en el gimnasio para mantener mi forma física
+- Conocer distintas personas y culturas
+- Conseguir el nivel C1 de inglés
+- Conseguir algún tipo de beca para poder irme a estudiar al extranjero un periodo de tiempo
 ##### Hobbies
 * Escuchar música (de todo tipo)
 * Conducir (ya que forma parte de mi día a día además de que me encanta hacer viajes largos cuando yo estoy al volante)
