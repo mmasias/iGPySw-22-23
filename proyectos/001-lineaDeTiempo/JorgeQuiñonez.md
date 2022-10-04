@@ -32,7 +32,7 @@
 ### 2021 -----------------------------------------------------------------
 
 * Impartición de un curso de matemática para graduandos impartido por la **Universidad Galileo Galilei** de Guatemala.
-* Obtuve la certificación de Cisco en el curso de ***Introducción a Redes.**
+* Obtuve la certificación de Cisco en el curso de **Introducción a Redes.**
 * Obtuve mi permiso de conducir.
 
 #### Octubre
