@@ -22,9 +22,8 @@
 ### 2018 -----------------------------------------------------------------
 
 * Trabajé por primera vez como entrenador de futbol en el curso de vacaciones impartido por Futeca S.A.
-
 * Primer viaje en avión en mi vida, fuimos a Los Ángeles con mi familia durante 2 semanas.
-* 
+
 ### 2019 -----------------------------------------------------------------
 
 * Inscripción a un curso de lectura rápida y comprensión lectora
