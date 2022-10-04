@@ -26,7 +26,7 @@ Adquirí los certificados de [*Cambridge*](https://www.cambridgeenglish.org/es/)
 
 A pesar de todo, actualmento no realizo ningún deporte.
 
-Por otro lado, me encanta la música, y por ello estudié guitarra durante 1 año, pero no era lque me esperaba, así que empecé a estudiar piano 
+Por otro lado, me encanta la música, y por ello estudié guitarra durante 1 año, pero no era lo que me esperaba, así que empecé a estudiar piano 
 durante unos años. A día de hoy ya no voy a clases de piano, pero sigo siendo capaz de tocar algo sencillo con el piano.
 
 ## Hobbies
