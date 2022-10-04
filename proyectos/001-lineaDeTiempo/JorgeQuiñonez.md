@@ -1,6 +1,6 @@
 # Linea de tiempo 
 
-## Jorge André Quiñonez Saavedra
+## *Jorge André Quiñonez Saavedra
 
 ### 2003 -----------------------------------------------------------------
 
@@ -8,11 +8,11 @@
 
 ### 2004 -----------------------------------------------------------------
 
-* Nacimiento de mi hermano Jose Alejandro.
+* Nacimiento de mi hermano *Jose Alejandro.
 
 ### 2012 -----------------------------------------------------------------
 
-* Nacimiento de mi hermana Ximena.
+* Nacimiento de mi hermana *Ximena Sophia.
 
 ### 2016 -----------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ### 2018 -----------------------------------------------------------------
 
-* Trabajé por primera vez como entrenador de futbol en el curso de vacaciones impartido por Futeca S.A.
-* Primer viaje en avión en mi vida, fuimos a Los Ángeles con mi familia durante 2 semanas.
+* Trabajé por primera vez como entrenador de futbol en el curso de vacaciones impartido por **Futeca S.A.
+* Primer viaje en avión en mi vida, fuimos a **Los Ángeles** con mi familia durante 2 semanas.
 
 ### 2019 -----------------------------------------------------------------
 
@@ -31,39 +31,39 @@
 
 ### 2021 -----------------------------------------------------------------
 
-* Impartición de un curso de matemática para graduandos impartido por la Universidad Galileo Galilei de Guatemala.
-* Obtuve la certificación de Cisco en el curso de Introducción a Redes.
+* Impartición de un curso de matemática para graduandos impartido por la **Universidad Galileo Galilei** de Guatemala.
+* Obtuve la certificación de Cisco en el curso de ***Introducción a Redes.
 * Obtuve mi permiso de conducir.
 
 #### Octubre
 * Me gradué de Bachiller en Ciencias y Letras con Orientación en Computación.
-* Se me concedió una beca de estudios universitarios en Santander, España.
+* Se me concedió una beca de estudios universitarios en **Santander, España.
 
 ### 2022 -----------------------------------------------------------------
 
-#### Enero
+#### *Enero
 
 * Despedida en mi casa con todos mis amigos de Guatemala antes de irme a estudias a España.
 
-#### Febrero
+#### *Febrero
 
-* Primer viaje a España para estudiar en la universidad.
+* Primer viaje a **España** para estudiar en la universidad.
 * Viaje a Bilbao el día que jugaba el Real Madrid en el estadio.
 * Comienzo de estudios en el grado de Ingeniería Informática en la Universidad Europea del Atlántico.
 * Viaje al Parque Natural Cabárceno.
 
-#### Abril
+#### *Abril
 
-* Excursión al Parque Nacional Picos de Europa donde conocí por primera vez la nieve.
+* Excursión al Parque Nacional **Picos de Europa** donde conocí por primera vez la nieve.
 
-#### Junio
+#### *Junio
 
 * Final del primer semestre de la carrera.
 
-#### Julio
+#### *Julio
 
 * Viaje de regreso a Guatemala por vacaciones.
 
-#### Septiembre
+#### *Septiembre
 
 * Comienzo de estudios de segundo año de la carrera.
