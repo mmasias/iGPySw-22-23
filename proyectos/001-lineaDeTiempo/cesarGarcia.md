@@ -1,6 +1,6 @@
 # Linea del tiempo de ***César García***
 ## Fecha de nacimiento  ***23 de enero de 2004***
-### Lugar de nacimiento  ***Valdecilla, Santander***
+## Lugar de nacimiento  ***Valdecilla, Santander***
 ### Datos personales
 + Acabé el colegio en el año 2016
 + Finalicé la ESO en 2020
@@ -8,10 +8,10 @@
 + En 2019 aprobé el B2 de Cambridge
 + En octubre de 2021 aprobé el exámen teórico de conducir y en marzo de 2022 conseguí el carnet.
 #### Estudios 
-- Bachillerato de ciencias en el IES Muriedas
-- B2 de inglés y actualmente estudiando el C1 de Cambridge
-- Carnet de conducir
-- Actualmente cursando la carrera de Ingeniería informática en la Uneat
++ Bachillerato de ciencias en el IES Muriedas
++ B2 de inglés y actualmente estudiando el C1 de Cambridge
++ Carnet de conducir
++ Actualmente cursando la carrera de Ingeniería informática en la Uneat
 #### Ambiciones
 - Sacarme la carrera en los cuatro años de su duración (sin suspender ninguna materia)
 - Seguir en el gimnasio para mantener mi forma física
