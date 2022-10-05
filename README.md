@@ -16,6 +16,8 @@ Alumno: Andriuw Yepez
 
 Alum. Ibuprofeno Fernández - 
 
+-- Alum. Jorge Quiñonez --
+
 ## Curso [22][23]
 
 * [Temario](docs/temario.md)
