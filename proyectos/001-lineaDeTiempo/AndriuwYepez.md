@@ -2,16 +2,18 @@
 Mi nombre es Andriuw Xavier Yepez Zambrano, nací en Caracas, Venezuela el 08 de mayo de 2003, tengo dos hermanos, uno de los cuales se encuentra cursando mi misma carrera en mi misma universidad, desde pequeño siempre mostré una afinidad por el mundo friki, bien sea con los videojuegos o la TV, esto llevo a siempre querer estar conectado al mundo de la tecnología, queriendo así saber más y conectarme más con ella, mi papá es ingeniero en informática y desde que tengo memoria trabaja creando páginas web, desarrollando nuevas tecnologías, etc., por lo tanto, sin siquiera saber como utilizar office ya intentaba saber y entender lo que él hacía en su trabajo.
 
 ### ***Yo pequeño***
-![imagen](img1.jpeg) 
+<img src="img.jpg" width="200"/>
+![imagen](img1.jpg) 
+:sunglasses::sunglasses:
 
 ## ***ESTUDIOS***
 
 - ### *Primaria*
-En la escuela no vi en sí una carrera específica, pero si era una escuela técnica intentando llevarnos por el camino de las nuevas tecnologías, desde 3.er grado estuve trabajando lo que eran los conceptos básicos de la electricidad, la informática, los componentes dela computadora y creando proyectos de ayuda a la comunidad con robótica, robots que nunca funcionaron, pero estuvo divertido utilizar legos y programarles funciones:D
+En la escuela no vi en sí una carrera específica, pero si era una escuela técnica intentando llevarnos por el camino de las nuevas tecnologías, desde 3.er grado estuve trabajando lo que eran los conceptos básicos de la electricidad, la informática, los componentes dela computadora y creando proyectos de ayuda a la comunidad con robótica, robots que nunca funcionaron, pero estuvo divertido utilizar legos y programarles funciones. :yum:
 
 - ### *Secundaria*
 
-Ya en el liceo fue diferente, desde el principio nos dejaron en claro que debemos decidir que nos gusta más para poder tomar la carrera que queramos, los primeros tres años son de aprendizajes respecto a todo, viendo tanto electricidad como informática, desde el comienzo supe qué carrera quería tomar, demostrándolo en mis clasificaciones, 10 en electricidad y 18 en informática:D. Ya los últimos tres años fueron solo enfocados en conocer y trabajar en los lenguajes, tecnologías y frameworks más importantes y más usados, hasta el pasado 2021 que logre graduarme como técnico medio en informática.
+Ya en el liceo fue diferente, desde el principio nos dejaron en claro que debemos decidir que nos gusta más para poder tomar la carrera que queramos, los primeros tres años son de aprendizajes respecto a todo, viendo tanto electricidad como informática, desde el comienzo supe qué carrera quería tomar, demostrándolo en mis clasificaciones, 10 en electricidad y 18 en informática:smirk:. Ya los últimos tres años fueron solo enfocados en conocer y trabajar en los lenguajes, tecnologías y frameworks más importantes y más usados, hasta el pasado 2021 que logre graduarme como técnico medio en informática.
 
 - ### *Universidad*
 
