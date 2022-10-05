@@ -17,5 +17,3 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
 
-
-Jose Manuel Rasilla Paz
