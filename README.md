@@ -4,8 +4,6 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 
-Iker Celaya Buezo
-
 ## Curso [22][23]
 
 * [Temario](docs/temario.md)
