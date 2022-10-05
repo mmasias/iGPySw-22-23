@@ -6,6 +6,8 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 Alumna. Valentina Arias 
 
 
+Alumno - Diego Moys
+
 ## Curso [22][23]
 
 * [Temario](docs/temario.md)
