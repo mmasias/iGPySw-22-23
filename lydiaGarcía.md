@@ -1,7 +1,7 @@
 # __LÍNEA DE TIEMPO LYDIA GARCÍA RIVERO__
 
 ## DATOS PERSONALES:
-- Nacimineto: 11/10/2004
+- Nacimiento: 11/10/2004
 - Lugar de nacimiento: Santander
 - Domicilio: Cabezón de la Sal 
 - Correo electrónico: lydia.garcia@alumnos.uneatlantico.es
