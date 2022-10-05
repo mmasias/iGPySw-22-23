@@ -19,8 +19,8 @@
 - Música
 - Videojuegos
 
-| Juego        || Años jugando |
-| ------------ || ------------ |
-| LoL          || 8            |
-| CSGO         || 3            |
-| Geometry Dash|| 5            |
+| Juego        | Años jugando |
+| ------------ | ------------ |
+| LoL          | 8            |
+| CSGO         | 3            |
+| Geometry Dash| 5            |
