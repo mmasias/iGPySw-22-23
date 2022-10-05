@@ -6,4 +6,4 @@
 - Genero: Femenino
 
 ## Contacto
-<img src="img1.png"width=80/>
+<img src="img1.png"width="80"/>
