@@ -28,9 +28,12 @@
   -Edicion de Imagenes (Photoshop)  
   -Modelado 3D (Blender, Cinema 4D)  
   
-  | Tables   |      Are      |  Cool |
-  |----------|:-------------:|------:|
-  | col 1 is |  left-aligned | $1600 |
-  | col 2 is |    centered   |   $12 |
-  | col 3 is | right-aligned |    $1 |
+  | Interests          |      Tools     |  Year |
+  |--------------------|:-------------: |------:|
+  | Web Dev            |  ReactJS, SASS | $1600 |
+  | Game Dev           |  Unity, Pygame |   $12 |
+  | Simulaciones       |  Pymunk, p5.js |    $1 |
+  | Edicion de Imagenes|  Photoshop     |    $1 |
+  | Modelado 3D        |  Cinema4D      |    $1 |
+
 
