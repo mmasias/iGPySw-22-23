@@ -22,6 +22,6 @@ teléfono: 601444086
 
 ### Sobre mí:
 
-+Soy una persona trabajadora
-+Me gustan mucho los videojuegos y estoy muy interesado en su programación
-+Siempre estoy dispuesto a aprender y no me molesta trabajar en equipo
++ Soy una persona trabajadora
++ Me gustan mucho los videojuegos y estoy muy interesado en su programación
++ Siempre estoy dispuesto a aprender y no me molesta trabajar en equipo
