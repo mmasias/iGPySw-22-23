@@ -5,7 +5,6 @@ Mi nombre es Andriuw Xavier Yepez Zambrano, nací en Caracas, Venezuela el 08 de
 
 <img src="./img1.jpeg" width="200"/>
 
-![imagen](img1.jpeg) 
 
 :sunglasses::sunglasses:
 
