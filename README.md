@@ -18,6 +18,9 @@ Alum. Ibuprofeno Fernández -
 
 -- Alum. Jorge Quiñonez --
 
+
+Alum.Aisha
+
 ## Curso [22][23]
 
 * [Temario](docs/temario.md)
