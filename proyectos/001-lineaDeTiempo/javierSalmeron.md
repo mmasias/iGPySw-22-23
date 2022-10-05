@@ -15,7 +15,7 @@
 ## :left_speech_bubble: Idiomas
 * ### Español
 	* #### Nativo
-* ### Ingles
+* ### Inglés
 	* #### C1
 * ### Euskera
 	* #### B2
