@@ -6,7 +6,6 @@
 
 ## :book: Estudios
 * ### Bachillerato 
-
     *  #### 2020 - 2022 
 
 * ### Ingeniería Informática
