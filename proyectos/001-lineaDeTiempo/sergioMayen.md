@@ -1,15 +1,15 @@
 # Mi linea de vida
 
-| ![image](IMG-20220128-WA0019.jpg) | **Sergio Alejandro Mayén Ruano** |  |  
+| ![image](IMG-20220128-WA0019.jpg) | **Sergio Alejandro** | **Mayén Ruano**
 | :---: | :---:  | :---: | 
-| 20 años | Nacionalidad: Salvadoreña | Github: MRSergio21 | 
-| Rol: SysAdmin & Back-end | Hobby: Jugador de Voleibol | Soltero | 
+| Edad: 20 años | Nacionalidad: Salvadoreña | Github: MRSergio21 | 
+| Rol: SysAdmin & Back-end | Hobby: Jugador de Voleibol | Estado civil: Soltero | 
 
 ## Introducción
 
 Nació en El Salvador en el departamento de San Salvador, en el 21 de Mayo del 2002
 
-## 
+## Trayecto en la informática
 
 
 
