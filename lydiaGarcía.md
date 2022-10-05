@@ -10,7 +10,7 @@
 - Baloncesto
 - Natación
 - Escuchar música
-- Salir de fiesta con los maigos 
+- Salir de fiesta con los amigos 
 ## TÍTULOS:
 - B2 en inglés
 - B2 en francés
