@@ -1,4 +1,4 @@
-# Linea De Tiempo Javier Cader `:bowtie:`
+# Linea De Tiempo Javier Cader :bowtie:
 
 * ## Datos Bibliográficos 
   **Nombre:** Javier Enrique Cader Suay  
@@ -17,9 +17,9 @@
   -Curso de Python Mimo *(2020)*  
 
 * ## Proyectos
-  -[Pagina Web Global Language Center *(2022)*](https://thegloballanguagecenter.studio/) `:earth_americas:`  
-  -[Real-Time Chat app de Global Language Center *(2022)*](https://glc-chat-app.netlify.app/) `:incoming_envelope:`  
-  -[Proyecto de Pagina Web de Compras Para Colegio Salvadoreño Inglés *(2022)*](https://ecommerce-sanity-delta.vercel.app/) `:money_with_wings:`
+  -[Pagina Web Global Language Center *(2022)*](https://thegloballanguagecenter.studio/) :earth_americas:  
+  -[Real-Time Chat app de Global Language Center *(2022)*](https://glc-chat-app.netlify.app/) :incoming_envelope:  
+  -[Proyecto de Pagina Web de Compras Para Colegio Salvadoreño Inglés *(2022)*](https://ecommerce-sanity-delta.vercel.app/) :money_with_wings:
 
 * ## Intereses
   
