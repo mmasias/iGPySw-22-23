@@ -15,3 +15,4 @@
 
 
 
+La línea de tiempo debe estar en un archivo presente en esta carpeta, llamada nombreApellido.md (por ejemplo, manuelMasias.md)
