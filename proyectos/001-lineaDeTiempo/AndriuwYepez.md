@@ -2,8 +2,11 @@
 Mi nombre es Andriuw Xavier Yepez Zambrano, nací en Caracas, Venezuela el 08 de mayo de 2003, tengo dos hermanos, uno de los cuales se encuentra cursando mi misma carrera en mi misma universidad, desde pequeño siempre mostré una afinidad por el mundo friki, bien sea con los videojuegos o la TV, esto llevo a siempre querer estar conectado al mundo de la tecnología, queriendo así saber más y conectarme más con ella, mi papá es ingeniero en informática y desde que tengo memoria trabaja creando páginas web, desarrollando nuevas tecnologías, etc., por lo tanto, sin siquiera saber como utilizar office ya intentaba saber y entender lo que él hacía en su trabajo.
 
 ### ***Yo pequeño***
-<img src="img.jpg" width="200"/>
+
+<img src="./img1.jpg" width="200"/>
+
 ![imagen](img1.jpg) 
+
 :sunglasses::sunglasses:
 
 ## ***ESTUDIOS***
