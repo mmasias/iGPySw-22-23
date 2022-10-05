@@ -1,6 +1,6 @@
-# Linea De Tiempo Javier Cader
+# Linea De Tiempo Javier Cader `:bowtie:`
 
-* ## Datos Bibliográficos
+* ## Datos Bibliográficos 
   **Nombre:** Javier Enrique Cader Suay  
   **Ocupación:** Estudiante de Ingeniería Informática  
   **Padre:** Aldo Cader Camilot    
@@ -17,23 +17,20 @@
   -Curso de Python Mimo *(2020)*  
 
 * ## Proyectos
-  -[Pagina Web Global Language Center *(2022)*](https://thegloballanguagecenter.studio/)  
-  -Real-Time Chat app de Global Language Center *(2022)*  
-  -Proyecto de Pagina Web de Compras Para Colegio Salvadoreño Inglés *(2022)*  
+  -[Pagina Web Global Language Center *(2022)*](https://thegloballanguagecenter.studio/) `:earth_americas:`  
+  -[Real-Time Chat app de Global Language Center *(2022)*](https://glc-chat-app.netlify.app/) `:incoming_envelope:`  
+  -[Proyecto de Pagina Web de Compras Para Colegio Salvadoreño Inglés *(2022)*](https://ecommerce-sanity-delta.vercel.app/) `:money_with_wings:`
 
 * ## Intereses
-  -Web Development (ReactJS, Vue, TS)  
-  -Game Development (Unity Engine, Pygame)  
-  -Simulaciones (Pymunk, p5.js)  
-  -Edicion de Imagenes (Photoshop)  
-  -Modelado 3D (Blender, Cinema 4D)  
   
   | Interests          |      Tools     |  Year |
   |--------------------|:-------------: |------:|
-  | Web Dev            |  ReactJS, SASS | $1600 |
-  | Game Dev           |  Unity, Pygame |   $12 |
-  | Simulaciones       |  Pymunk, p5.js |    $1 |
-  | Edicion de Imagenes|  Photoshop     |    $1 |
-  | Modelado 3D        |  Cinema4D      |    $1 |
+  | Web Dev            |  ReactJS, SASS | 2022  |
+  | Game Dev           |  Unity, Pygame | 2022  |
+  | Simulaciones       |  Pymunk, p5.js | 2022  |
+  | Edicion de Imagenes|  Photoshop     | 2021  |
+  | Modelado 3D        |  Cinema4D      | 2021  |
+  | Animaciones 2D     |  After Effects | 2021  |
 
-
+* ## Yo
+  <kbd>![Foto De Javier Cader](assets/img/myImage.jpeg "Javier Cader")</kbd>
