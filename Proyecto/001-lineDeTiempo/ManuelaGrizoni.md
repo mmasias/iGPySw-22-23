@@ -12,7 +12,7 @@
 
 **Secundaria**
 
-- Enero de 2015 c0mencé la secundaria en "Colégio Integral Pualínia"
+- Enero de 2015 c0mencé la secundaria en "Colégio Integral Paulínia"
 
 **Bachillerato** 
 
