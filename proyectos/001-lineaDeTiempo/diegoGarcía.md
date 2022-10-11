@@ -1,5 +1,8 @@
 
-# Diego García Niño    
+ <img src= https://user-images.githubusercontent.com/94009483/195187287-c46621f1-1347-4034-902f-15e9832c217b.jpg width="150" height="200">
+ 
+ # Diego García Niño 
+
 
 ## *Localidad y año de nacimiento:*
  Nací en Santander el 30/01/2002.
