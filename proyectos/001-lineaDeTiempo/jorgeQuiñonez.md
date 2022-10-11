@@ -73,3 +73,5 @@
 #### *Septiembre*
 
 * Comienzo de estudios de segundo año de la carrera.
+
+![UNEATLANTICO](https://keystoneacademic-res.cloudinary.com/image/upload/element/15/155864_155684_FachadaUNEATLANTICO6.jpg)
