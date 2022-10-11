@@ -7,36 +7,37 @@
 |Edad|19 años|
 |---|---|
 |Estudios|Ingeniería Informática|
+|---|---|
 
-### 2003 ***
+### 2003
 
 * Nací en la Ciudad de Guatemala el 5 de agosto.
 
-### 2004 ***
+### 2004
 
 * Nacimiento de mi hermano *Jose Alejandro*.
 
-### 2012 ***
+### 2012
 
 * Nacimiento de mi hermana *Ximena Sophia*.
 
-### 2016 ***
+### 2016
 
 * Me mudé de casa y cambié de colegio.
 * Me gradué de la escuela primaria
 
-### 2018 ***
+### 2018 
 
 * Trabajé por primera vez como entrenador de futbol en el curso de vacaciones impartido por **Futeca S.A.**
 * Primer viaje en avión en mi vida, fuimos a **Los Ángeles** con mi familia durante 2 semanas.
 * ![Los Angeles](https://pbs.twimg.com/media/FV2QVZSUUAAAyXa?format=jpg&name=large)
 
-### 2019 ***
+### 2019 
 
 * Inscripción a un curso de lectura rápida y comprensión lectora
 * Finalización de dicho curso.
 
-### 2021 ***
+### 2021 
 
 * Impartición de un curso de matemática para graduandos impartido por la **Universidad Galileo Galilei** de Guatemala.
 * Obtuve la certificación de Cisco en el curso de **Introducción a Redes.**
@@ -46,7 +47,7 @@
 * Me gradué de Bachiller en Ciencias y Letras con Orientación en Computación.
 * Se me concedió una beca de estudios universitarios en **Santander, España.**
 
-### 2022 ***
+### 2022
 
 #### *Enero*
 
