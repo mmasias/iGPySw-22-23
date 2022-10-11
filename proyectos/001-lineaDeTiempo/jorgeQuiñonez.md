@@ -3,11 +3,8 @@
 ## *Jorge André Quiñonez Saavedra*
 
 |Nacionalidad|Guatemalteca|
-|---|---|
 |Edad|19 años|
-|---|---|
 |Estudios|Ingeniería Informática|
-|---|---|
 
 ### 2003
 
