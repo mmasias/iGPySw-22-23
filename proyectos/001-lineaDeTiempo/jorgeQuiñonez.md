@@ -28,7 +28,7 @@
 
 * Trabajé por primera vez como entrenador de futbol en el curso de vacaciones impartido por **Futeca S.A.**
 * Primer viaje en avión en mi vida, fuimos a **Los Ángeles** con mi familia durante 2 semanas.
-* ![Los Angeles]([https://pbs.twimg.com/media/FV2QVZSUUAAAyXa?format=jpg&name=large](https://media.istockphoto.com/photos/downtown-los-angeles-picture-id902377622?k=20&m=902377622&s=612x612&w=0&h=WN8kjNwQphS8OnKOwDPPfvIRVkoWB7M47lz5aowqOJE=))
+* ![Los Angeles](https://media.istockphoto.com/photos/downtown-los-angeles-picture-id902377622?k=20&m=902377622&s=612x612&w=0&h=WN8kjNwQphS8OnKOwDPPfvIRVkoWB7M47lz5aowqOJE=)
 
 ### 2019 
 
