@@ -6,6 +6,8 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 * [Temario](docs/temario.md)
 * [Proyectos que abordaremos:](docs/proyectos.md).
+    * [Línea de tiempo](./proyectos/001-lineaDeTiempo/)
+    * [Mejora de hoja de asistencia](./proyectos/002-propuestaMejoraHoja/)
 * [Grupos](docs/grupos.md)
 
 ## Herramientas
