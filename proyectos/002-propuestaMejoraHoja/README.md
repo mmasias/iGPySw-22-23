@@ -12,7 +12,9 @@ A la **[hoja de cálculo existente](https://docs.google.com/spreadsheets/d/19lit
 - Fórmulas
 - Formato condicional
 
-## La entrega  :heavy_exclamation_mark: ¡Muy importante!
+## La entrega  
+
+> :heavy_exclamation_mark: **¡Muy importante!** No se aceptarán trabajos que no cumplan con estos criterios de entrega.
 
 Mediante un enlace incluido en el archivo **nombreApellido.md**, en esta carpeta, que apunte a la hoja de solución propuesta.
 
