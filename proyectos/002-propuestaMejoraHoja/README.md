@@ -6,3 +6,4 @@ A la hoja de cálculo existente, que muestra en la parte superior dos colores (d
 
 Mediante un enlace incluido en el archivo nombreApellido.md, que apunte a la hoja de solución propuesta.
 
+Fecha: Jueves 27 Oct 00:00h
