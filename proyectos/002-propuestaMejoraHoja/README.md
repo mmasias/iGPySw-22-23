@@ -4,6 +4,6 @@ A la **[hoja de cálculo existente](https://docs.google.com/spreadsheets/d/19lit
 
 ## La entrega
 
-Mediante un enlace incluido en el archivo nombreApellido.md, que apunte a la hoja de solución propuesta.
+Mediante un enlace incluido en el archivo nombreApellido.md, en esta carpeta, que apunte a la hoja de solución propuesta.
 
 Fecha: Jueves 27 Oct 00:00h
