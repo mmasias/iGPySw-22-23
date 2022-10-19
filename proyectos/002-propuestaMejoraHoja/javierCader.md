@@ -12,7 +12,7 @@
   
   <br>
   
-  <table align="center" style="border: 2px;">
+  <table align="center">
     <tr>  
       <th style="text-align: center;">Version</td>
       <th style="text-align: center;">Description</td>
