@@ -4,7 +4,7 @@
     - ☑️ ¿Qué es la ingeniería?
     - ☑️ ¿Qué ingenierías existen?
     - ☑️ ¿Qué significa ser ingeniero?
-    - ☑️ ¿Qué voy a hacer cuando termine?
+    - 🏗️ ¿Qué voy a hacer cuando termine?
 - ☑️ Proceso de software 
 - 🔲 Calidad en el software
 - 🔲 Innovación 
