@@ -24,6 +24,6 @@
 
 # Charlas & Vídeos
 
-- Software libre [(RichardStallman@Youtube)](https://www.youtube.com/watch?v=h2aPLHqrK7M)
-- Innovación [Enrique Dans]
+- Software libre [Richard Stallman](https://www.youtube.com/watch?v=h2aPLHqrK7M)
+- Innovación &/O Regulación [Enrique Dans](https://www.youtube.com/watch?v=To97P4yhQLY)
 - 
