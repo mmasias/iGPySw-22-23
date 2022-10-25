@@ -1,3 +1,10 @@
-# Link de la Hoja de Cálculo con la solución propuesta
+# Evaluación Continua #2
 
-![Hoja de Cálculo](https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing)
+## Solución propuesta:
+Se agregó el formato condicional correspondiente a la ¨clase de hoy¨ con un valor 2 y que la casilla tome el color azul.
+
+Se editó la ecuación, ya existente en la hoja de cálculo, concatenando otra condición IF segundo valor de retorno en la primera condición, puesto así que, las clases superiores a la fecha actual se quedarán con el formato original del documento, en caso contrario, revisa si la fecha conincide con el día de clase y, de ser así, aplica el tercer formato condiciona; de no cumplirse ninguna de las anteriores, marca las casillas como clases pasadas.
+
+## Link a la hoja de Cálculo con la solución 
+
+![https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing)
