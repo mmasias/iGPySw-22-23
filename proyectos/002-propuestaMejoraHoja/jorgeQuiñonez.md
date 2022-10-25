@@ -11,6 +11,4 @@ Se agregó el formato condicional correspondiente a la ¨clase de hoy¨ con un v
 
 ## Link a la hoja de Cálculo con la solución 
 
-![Fórmula de la solución](https://drive.google.com/file/d/1gMRgUUzZ02YL4mH7VlK3WicHrLK6IZwo/view?usp=sharing)
-
 ![https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing)
