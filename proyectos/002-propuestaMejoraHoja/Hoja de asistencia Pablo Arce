@@ -1,0 +1,13 @@
+###La tabla de asistencia:
+
+- Marca la primera columna de cada fila:
+
+    -De color verde oscuro si es una clase pasada.
+    -De color verde claro si es una clase futura.
+    
+###Se propone:
+
+  - Que marque la primera columna de la fila del día de hoy, de color amarillo.
+  
+Para ello se utilizó otra formula condicional en cada fila:
+[Hoja de calculo mejorada](https://docs.google.com/spreadsheets/d/1MMI6eAskuoAVoCy6-dwW9ksOnFTYkU7owRNhxQ2mkY0/edit#gid=0).
