@@ -20,6 +20,7 @@
     - ☑️ Markdown
     - ☑️ Diagramas de actividades
     - ☑️ Mapas mentales
+    - ☑️ GIT & Github [(Vídeo con un repaso a las funciones de trabajo)](./videoGithub.md)
     - 🔲 GANTT
 
 # Charlas & Vídeos
