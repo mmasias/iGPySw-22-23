@@ -7,7 +7,7 @@
     - 🏗️ ¿Qué voy a hacer cuando termine?
 - ☑️ Proceso de software 
 - 🔲 Calidad en el software
-- 🔲 Innovación 
+- ☑️ Innovación 
 
 # ExoTemario || TransTemario || PreTemario
 
