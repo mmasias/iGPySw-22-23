@@ -18,6 +18,10 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
 * [Grupos](docs/grupos.md)
 
+ ### Evaluaciones
+
+ * [Examen parcial](https://forms.gle/xXvTw1zLTDnqAMEB7)
+
 ## Herramientas
 
 * [PlantUML](https://plantuml.com/es/)
