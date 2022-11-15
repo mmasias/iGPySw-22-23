@@ -10,6 +10,10 @@ Prof. Manuel Masías - 1º Curso - Asignatura obligatoria - Asistencia opcional
 * [Proyectos que abordaremos:](docs/proyectos.md).
 * [Grupos](docs/grupos.md)
 
+ ### Evaluaciones
+
+ * [Examen parcial]()
+
 ## Herramientas
 
 * [PlantUML](https://plantuml.com/es/)
