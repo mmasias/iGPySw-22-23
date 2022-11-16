@@ -20,7 +20,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 
  ### Evaluaciones
 
- * [Examen parcial](https://forms.gle/xXvTw1zLTDnqAMEB7)
+ * [Examen parcial](https://forms.gle/xXvTw1zLTDnqAMEB7) - [Boceto de solución](https://docs.google.com/spreadsheets/d/10VxkiHl7u7s4HgdTKofwbqihtmW4aYF9ei9dbMXReAs/edit?usp=sharing) - [Revisión](https://docs.google.com/spreadsheets/d/1GT_xIFJ-B1Dn8NB4u8n1Nw_mK3RhZRzcYHA8EHgNJlE/edit?usp=sharing), a falta de mirar los diagramas.
 
 ## Herramientas
 
