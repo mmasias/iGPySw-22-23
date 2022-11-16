@@ -9,7 +9,7 @@
 
   <div align="center">
   <br>
-  <img width="90px" alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
+  <img width="90px" alt="Java" src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"/>
   <br>
   <br>
   
