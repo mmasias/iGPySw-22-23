@@ -7,7 +7,7 @@
     - 🏗️ ¿Qué voy a hacer cuando termine?
 - ☑️ Proceso de software 
 - 🔲 Calidad en el software
-- 🔲 Innovación 
+- ☑️ Innovación 
 
 # ExoTemario || TransTemario || PreTemario
 
@@ -20,6 +20,7 @@
     - ☑️ Markdown
     - ☑️ Diagramas de actividades
     - ☑️ Mapas mentales
+    - ☑️ GIT & Github [(Vídeo con un repaso a las funciones de trabajo)](./videoGithub.md)
     - 🔲 GANTT
 
 # Charlas & Vídeos
