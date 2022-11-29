@@ -91,3 +91,4 @@ Además, casi cualquier estrategia online está asociada en la mayoría de los c
 * Si el proyecto comienza el 05 de diciembre de 2022
     * ¿Cuál será el último día de ejecución del proyecto, si no tenemos retraso?
     * ¿Y si tenemos un retraso de 5 días en la actividad 5?
+    
