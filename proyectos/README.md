@@ -17,4 +17,4 @@
   |:-:|:-:|
   |Linea de Tiempo|[Mirror](001-lineaDeTiempo/andrésAlarcón.md)
   |Mejora Hoja de Asistencias|[Mirror](002-propuestaMejoraHoja/andrésAlarcón.md)
-  |Diagrama de Gantt|[Mirror]()
+  |Diagrama de Gantt|[Mirror](003-DiagramaDeGantt/andrésAlarcón.md)
