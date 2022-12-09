@@ -1,8 +1,6 @@
 # Diagrama de Gantt
 
-[Imagen](../images/DiagramaDeGantt.png)
-
-![Document](https://drive.google.com/file/d/1yJrnXFQssNfXyCADPS467nAcjiyj6iga/view?usp=share_link)
+![Link al Diagrama de Gantt](https://drive.google.com/file/d/1yJrnXFQssNfXyCADPS467nAcjiyj6iga/view?usp=share_link)
 
 ---
 
