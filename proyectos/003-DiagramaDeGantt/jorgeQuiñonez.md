@@ -2,7 +2,7 @@
 
 [Link al Diagrama de Gantt](https://drive.google.com/file/d/1yJrnXFQssNfXyCADPS467nAcjiyj6iga/view?usp=share_link)
 
---- Pd. el proyecto de mi diagrama inicia el día 05 de Diciembre
+- Pd. el proyecto de mi diagrama inicia el día 05 de Diciembre
 
 ---
 
