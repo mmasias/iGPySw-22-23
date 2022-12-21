@@ -16,7 +16,7 @@ Facilidad de pago (beneficia a las tiendas), pagos en "negro" se le dificulta la
 ### Reajuste del proyecto
 En vez de obligar a las empresas a emplear nuestro pago o moneda, implementamos sucursales por todo el mundo y creamos cabinas en los pueblos y ciudades para intercambiar tu dinero o tus Zcoin por dinero del país en el que te encuentres.
 
-Posibilidad de pagar cualquier cosa, porque cambias de divisa
+Posibilidad de pagar cualquier cosa, porque cambias de divisa.
 
 ### ¿Qué hemos logrado?
 
