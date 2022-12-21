@@ -28,3 +28,5 @@ Posibilidad de pagar cualquier cosa, porque cambias de divisa
 
 
 ¡¡¡Ya tenemos nuestro primer logotipo y una presentación de como quedaria nuestra app ( en fase beta)!!!
+
+Creados personalmente evidentemente.
