@@ -1,0 +1,7 @@
+## Debilidad
+***
+## Amenazas 
+***
+## Fortalezas
+***
+## Oportunidades
