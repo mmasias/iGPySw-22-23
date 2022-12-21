@@ -24,7 +24,7 @@ Posibilidad de pagar cualquier cosa, porque cambias de divisa
 - Creatividad respecto al proyecto principal
 - Facilidad de enfoque, ya sabemos que hacer.
 - Integración más amena, no necesitamos de otras personas para sacar el proyecto adelante, nosotros somos quienes contruimos nuestro camino.
-- **Importante** es diferente a los metodos actuales (bizum, paypal...)
+- ❗**Importante** es diferente a los metodos actuales (bizum, paypal...)
 
 
 ¡¡¡Ya tenemos nuestro primer logotipo y una presentación de como quedaria nuestra app ( en fase beta)!!!
