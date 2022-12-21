@@ -9,6 +9,7 @@ Facilidad de pago (beneficia a las tiendas), pagos en "negro" se le dificulta la
 ***
 ## Oportunidades
 ¿Qué no tiene bizum, paypal o paysafecard y la gente lo demanda?
+
 Integrar varios tipos de moneda (euro, libras, dolar... monedas digitales: bitcoin, ethereum...) 
 Crear nuestra propia moneda (Zcoin) 
 Integrar maquinas/cabinas/cajeros para intercambiar o sacar tu dinero desde tu movil.
