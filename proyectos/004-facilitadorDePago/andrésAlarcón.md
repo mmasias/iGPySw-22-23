@@ -18,8 +18,11 @@ Entre sus debilidades está presente la aceptación o desconocimiento de estos s
 ## Propuestas de Mejora
 
 - **Experimentar antes de ingresar al mercado:**
+  Una de las mejores opciones para aumentar el margen de aceptación y mejora de este proyecto es realizar una investigación experimental del mercado al que va a ser expuesto, en este caso se propone escoger una región que acepte los criterios de investigación, así poder evaluar las tendencias y la aceptabilidad en los ambientes concretos que se vera expuesta el producto final. Además, poder analizar aspectos que podrían no haberse tenido en cuenta.
   
-- **Realizar un analisis independiente a cada region/mercado de interes:**
+- **Realizar un análisis independiente a cada región/mercado de interés:**
+  Esta propuesta va de la mano con la anterior, en esta se busca conocer el nivel de aceptación de manera teórica para así escoger las regiones en las que es más probable la aceptación de este proyecto a largo o corto plazo. Así, en el caso de ser factible, lanzar el producto en un estado de prueba y proceder a la experimentación anteriormente planteada.
   
-- **Optimizar la gestión de la demanda del producto:**
+- **Optimizar la gestión del producto:**
+ Para este aspecto a mejorar, se busca el constante mantenimiento y seguimiento del producto en dependencia de las condiciones a las que se vea enfrentado, en el caso de ciertas partes del mundo, debe de darse una mejor adaptación según las leyes y regulaciones de la región. 
   
