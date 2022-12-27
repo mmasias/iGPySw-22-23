@@ -10,8 +10,8 @@
 
 | Fortalezas        | Oportunidades |
 |-------------------| --------------|
-| Animal Crossing   | Modernizar pueblos y comunidades carentes de medios que faciliten el pago de sus bienes diarios |
-| Persona 5         | Atlus         |
-| Final Fantasy VII | Square Enix   |
+|  | Modernizar pueblos y comunidades carentes de medios que faciliten el pago de sus bienes diarios |
+| Persona 5         | Que los comercios realicen sus actividades eficazmente |
+| Final Fantasy VII |   |
 
 ## Mejoras propuestas
