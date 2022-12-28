@@ -3,9 +3,9 @@
 
 | **DEBILIDADES** | **AMENAZAS** |
 | --- | --- |
-| - Perdidas de dinero | | - Competenecia a nivel económico. |
-| - Producción de baja calidad | | -La posibilidad de infiltración en cuentas bancarias ajenas | 
-| - Marketing deficiente | | - Poca capacidad de inversión |
+| - Perdidas de dinero || - Competenecia a nivel económico. |
+| - Producción de baja calidad || -La posibilidad de infiltración en cuentas bancarias ajenas | 
+| - Marketing deficiente || - Poca capacidad de inversión |
 | - Falta de control de método de pago |
 
 
