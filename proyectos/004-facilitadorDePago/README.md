@@ -1,4 +1,4 @@
-DAFO
+# DAFO
 
 A partir del proyecto asignado en clase (Proyecto de Facilitador de Pago), realice un [DAFO](https://es.wikipedia.org/wiki/An%C3%A1lisis_FODA) del mismo y plantee -argumentándolas- tres mejoras que presentaría, atendiendo dicho análisis.
 
