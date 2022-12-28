@@ -11,7 +11,6 @@
 | Fortalezas        | Oportunidades |
 |-------------------| --------------|
 | Popularizar un nuevo medio de pago globalmente compatible con los sistemas financieros actuales | Modernizar pueblos y comunidades carentes de medios que faciliten el pago de sus bienes diarios |
-|  | Que los comercios realicen sus actividades eficazmente |
-|  |  |
+| Reduce la carga de llevar más documentos con uno mismo, pues todo se realiza desde el teléfono el cual se utiliza en el dia a dia | Que los comercios realicen sus actividades eficazmente |
 
 ## Mejoras propuestas
