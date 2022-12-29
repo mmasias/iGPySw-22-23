@@ -1,5 +1,7 @@
 # Dinámica de línea de tiempo
 
+> [Status](https://github.com/mmasias/iGPySw-22-23/pulls?q=is%3Apr+label%3AEvaluacionContinua-001+)
+
 Crear la línea de tiempo personal en su fork y enviarla mediante pull request a este repositorio.
 
 Se debe utilizar el lenguaje [Markdown](https://markdown.es/sintaxis-markdown/)

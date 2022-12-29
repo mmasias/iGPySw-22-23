@@ -1,5 +1,7 @@
 # Propuesta de mejora a la hoja de cálculo de asistencia
 
+> [Estado](https://github.com/mmasias/iGPySw-22-23/pulls?q=is%3Apr+label%3AEvaluacionContinua-002+)
+
 A la **[hoja de cálculo existente](https://docs.google.com/spreadsheets/d/19litnyt63ELTel4qMyb4U4_ggJ00z9TmZ6_O82o8_i4/edit?usp=sharing)**, que muestra en la parte superior dos colores (dos estados) correspondientes a clases pasadas y clases futuras, agregarle un tercer indicador, que corresponda a la clase del día de hoy.
 
 |Situación actual
