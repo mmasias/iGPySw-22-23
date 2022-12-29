@@ -8,7 +8,7 @@
 
 * Colaboración con entidades gubernamentales y otras corporaciones para primero establecer la infraestructura necesaria para que el proyecto pueda funcionar.
 
-* Definir bien la solución para el problema: esta podría ser un medio de pago que funcione a través de tecnologías como NFC o bluetooth, y no se dependa del internet para realizar un pago, se podría tener una billetera digital en un dispositivo como un smartphone donde se puedan realizar transacciones al pasar información cifrada entre los dispositivos a través de dichas tecnologías, y luego una vez haya conexión a internet en el dispositivo se registre dicha transacción en un sistema tipo blockchain.
+* Definir bien la solución para el problema: esta podría ser un medio de pago que funcione a través de tecnologías como NFC o bluetooth, y no dependa del internet para realizar un pago, se podría tener una billetera digital en un dispositivo como un smartphone donde se puedan realizar transacciones al pasar información cifrada entre los dispositivos a través de dichas tecnologías, y luego una vez haya conexión a internet en el dispositivo se registre dicha transacción en un sistema tipo blockchain.
 
 * Para la sostenibilidad del proyecto se podría cobrar una pequeña comisión entre cada transacción, que se cobraría una vez la persona intente transferir el dinero a otro medio de pago tradicional o una vez el dispositivo se conecte a internet y se registre la transacción.
 
