@@ -1,5 +1,5 @@
 # Introducción a la Gestión de Proyectos de Software
-
+dhtfjh
 Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducción a la gestión de proyectos de software** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es). 
 
 ## Curso [22][23]
@@ -14,7 +14,7 @@ Repositorio semi-oficial de materiales y proyectos de la asignatura **Introducci
 |Línea de tiempo|[Construcción de una línea de tiempo usando la sintaxis Markdown](./proyectos/001-lineaDeTiempo/)|[:mag_right::page_facing_up:](https://github.com/mmasias/iGPySw-22-23/pulls?q=is%3Apr+label%3AEvaluacionContinua-001+)|[:link:](https://github.com/mmasias/iGPySw-22-23/tree/Entrega-Evaluacion-Continua-1/proyectos/001-lineaDeTiempo)
 |Hoja de asistencia|[Mejora de hoja de cálculo con fórmulas y formato condicional](./proyectos/002-propuestaMejoraHoja/)|[:mag_right::page_facing_up:](https://github.com/mmasias/iGPySw-22-23/pulls?q=is%3Apr+label%3AEvaluacionContinua-002+)|[:link:](https://github.com/mmasias/iGPySw-22-23/tree/Entrega-Evaluacion-Continua-2/proyectos/002-propuestaMejoraHoja)
 |Selección de software|[Elección de aplicativo GANTT](./proyectos/003-DiagramaDeGantt/README.md)|[:pencil2:](https://docs.google.com/spreadsheets/d/1QMFJ8aK745agAT7zkVA07xLlue6UJ3i7X2Uw7SW7OrI/edit?usp=sharing)
-|DAFO Proyecto pre-asignado|[Facilitador de pago](./proyectos/004-FacilitadorDePago/README.md)|[:pencil2:]
+|DAFO Proyecto pre-asignado|[Facilitador de pago](./proyectos/004-facilitadorDePago/README.md)|:pencil2:|[:link:](https://github.com/mmasias/iGPySw-22-23/tree/Entrega-Evaluacion-Continua-4/proyectos/004-facilitadorDePago)
 
 </div>
 
