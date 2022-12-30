@@ -3,7 +3,7 @@ Este proyecto consiste principalmente en hacer que se pueda pagar con nuestros t
 
 ### Debilidades
 * El coste que supondría implantar esta tecnología en lugares remotos sería exagerado
-* No todos lo países iban a estrar de acuerdo
+* No todos los países iban a estar de acuerdo
 * Muchas personas prefieren pagar en metálico pues así creen controlar mejor lo que gastan
 * Habría que aplicar una comisión para que el proyecto fuese rentable en un sentido comercial
 
@@ -25,9 +25,9 @@ Este proyecto consiste principalmente en hacer que se pueda pagar con nuestros t
 
 
 ## Propuesta de mejoras
-1. 
-2.
-3.
+1. Concienciar a los gobiernos y grandes empresas para que aporten dinero a nuestro proyecto
+2. Mejorar la seguridad de pago para que las personas se sientan mucho más seguras al utilizarlo
+3. Hacer una campaña publicitaria para concienciar a las personas de los grandes beneficios que este proyecto aporta
 
 
 
