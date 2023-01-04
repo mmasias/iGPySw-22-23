@@ -28,7 +28,7 @@
 - Innovación y desarrollo.
 - Colaborar con equipos multidisciplinarios.
 
-*ideas de mejora
+# ideas de mejora
 - Al ser una nueva tecnología la que queremos implementar debemos de hacer clases o cursos donde les mostremos a las personas como funciona nuestro producto.
 
 - Debe estar constantemente actualizada y conectada con las diferentes identidades de formas de pago y monedas que van surgiendo como por ejemplo Bizum, criptomonedas, tarjetas de crédito o débito.
