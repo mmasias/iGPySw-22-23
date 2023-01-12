@@ -28,3 +28,7 @@
 - ☑️ Software libre [Richard Stallman](https://www.youtube.com/watch?v=h2aPLHqrK7M)
 - 🔲 Innovación &/O Regulación [Enrique Dans](https://www.youtube.com/watch?v=To97P4yhQLY)
 - 
+
+# Carpeta de presentaciones
+
+- [Para leer](https://drive.google.com/drive/folders/1HArvnszvJ9QZH16P_Evh5mQNBVeN59oP?usp=sharing)
