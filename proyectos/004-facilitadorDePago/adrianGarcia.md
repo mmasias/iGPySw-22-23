@@ -1,5 +1,5 @@
 # DAFO FACILITADOR DE PAGO - ADRIÁN GARCÍA ARRANZ #
-
+ 
 | | |
 | :-----: | :-----: |
 | Debilidades <br><br> - Para poder hacer uso de ello se necesita que todos los países en los que se vaya a utilizar lo aprueben. <br> - Este sistema de pago tiene una gran dificultad de accesibilidad para los países que no tengan wifi o no estén tan actualizados como países como España o similares. <br> - Si hablamos del dinero que puede suponer al país meter esta forma de pago muchos de ellos no lo podrían tener. |  Amenazas <br><br> - En bastantes países sus dirigentes no quieren que haya cambios en la economía del país. <br> - Una gran cantidad de personas especialmente las personas de mayor edad prefieren pagar en efectivo ya que no acaban de confiar en este método. <br> - Si te roban el móvil desbloqueado pueden pagar con él en los establecimientos. | 
