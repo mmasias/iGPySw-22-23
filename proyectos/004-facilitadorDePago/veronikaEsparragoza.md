@@ -2,11 +2,10 @@
 
 ## Análisis DAFO
 
-| Debilidades | Amenazas | Fortalezas | Oportunidades |
-|-|-|-|-|
-| - Mayor riesgo a ataques ciberneticos o posibles fraudes | - Este proyecto depende directamente de los dispositivos móviles, en caso de que no cuenten con esta tecnología o sepan utilizarla de la mejor manera, no podrán utilizar este sistema | - Facilita el acceso a un nuevo servicio financiero sobretodo en zonas donde no estan disponibles algunos metodos de pago tradicionales | - Se abriría un nuevo estilo de comercio, dado que se utilizaría la moneda internacional |
-| - Elevados costos de implementación y mantenimiento | - Existen otros métodos de pago que podrían resultar más atractivos para los usuarios, por ende si no utilizan esta nueva tecnología, no podrá crecer | - Mayor flexibilidad, eficiencia y seguridad dado que cada uno lo maneja con su propio dispositivo móvil  | - Se dejaría de utilizar tantos recursos para la impresión del dinero en metálico |
-
+|Debilidades |Amenazas |Fortalezas |Oportunidades
+|-|-|-|-
+|Mayor riesgo a ataques ciberneticos o posibles fraudes |Este proyecto depende directamente de los dispositivos móviles, en caso de que no cuenten con esta tecnología o sepan utilizarla de la mejor manera, no podrán utilizar este sistema |Facilita el acceso a un nuevo servicio financiero sobretodo en zonas donde no estan disponibles algunos metodos de pago tradicionales |Se abriría un nuevo estilo de comercio, dado que se utilizaría la moneda internacional
+|Elevados costos de implementación y mantenimiento |Existen otros métodos de pago que podrían resultar más atractivos para los usuarios, por ende si no utilizan esta nueva tecnología, no podrá crecer |Mayor flexibilidad, eficiencia y seguridad dado que cada uno lo maneja con su propio dispositivo móvil  |Se dejaría de utilizar tantos recursos para la impresión del dinero en metálico
 
 ## Posibles Mejoras
  
