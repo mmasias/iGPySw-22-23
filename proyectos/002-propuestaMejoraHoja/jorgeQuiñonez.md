@@ -12,3 +12,4 @@ Se agregó el formato condicional correspondiente a la ¨clase de hoy¨ con un v
 ## Link a la hoja de Cálculo con la solución 
 
 ![Hoja de cálculo con la solución](https://docs.google.com/spreadsheets/d/1rz138ds6KVMRbnWtb49UUnra4PphDLoERTrUkkpO0-0/edit?usp=sharing)
+ 
